@@ -17,3 +17,12 @@ matplotlib
 
 # Author
 - Koray Çağlar - [koraycaglar](https://github.com/koraycaglar)
+
+#Includes
+- Normalizing Image
+- Convulation with ReLU
+- Maximum Pooling
+- Data Augmentation
+- Batch Normalization
+- Sequential Model Building and Fitting
+- Plotting the results
