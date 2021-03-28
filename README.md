@@ -18,7 +18,7 @@ matplotlib
 # Author
 - Koray Çağlar - [koraycaglar](https://github.com/koraycaglar)
 
-#Includes
+# Includes
 - Normalizing Image
 - Convulation with ReLU
 - Maximum Pooling
