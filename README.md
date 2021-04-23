@@ -20,7 +20,7 @@ matplotlib
 
 # Includes
 - Normalizing Image
-- Convulation with ReLU
+- Convolution with ReLU
 - Maximum Pooling
 - Data Augmentation
 - Batch Normalization
